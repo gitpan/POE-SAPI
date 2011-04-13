@@ -1,0 +1,6 @@
+Revision history for Perl extension POE::SAPI.
+
+0.01  Wed Apr 13 09:48:02 2011
+	- original version; created by h2xs 1.23 with options
+		-b 5.10.1 -AX POE::SAPI
+
